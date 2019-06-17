@@ -47,8 +47,6 @@ python3 run_classifier.py
 --finetuned_model_dir ./finetuned_lm_domain_corpus
 ```
 
-The results
-
 ## Reproducing results
 
 1. Downloading the [fine-tuned language model](https://drive.google.com/file/d/1VKKbfuzIdPwwgbYKSXBvhV7Ak1CSggSO/view?usp=sharing).
