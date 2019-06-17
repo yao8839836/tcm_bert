@@ -47,8 +47,11 @@ python3 run_classifier.py
 --finetuned_model_dir ./finetuned_lm_domain_corpus
 ```
 
+The results
+
 ## Reproducing results
 
 1. Downloading the [fine-tuned language model](https://drive.google.com/file/d/1VKKbfuzIdPwwgbYKSXBvhV7Ak1CSggSO/view?usp=sharing).
 2. Uncompressing the zip file in current folder.
-3. Running the final text classifier fine-tuning
+3. Running the final text classifier fine-tuning.
+4. The results of BERT can be reproduced by running the final text classifier fine-tuning without ```--finetuned_model_dir ./finetuned_lm_domain_corpus```.
