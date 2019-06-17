@@ -50,5 +50,5 @@ python3 run_classifier.py
 ## Reproducing resuslts
 
 1. Downloading the [fine-tuned language model](https://drive.google.com/file/d/1VKKbfuzIdPwwgbYKSXBvhV7Ak1CSggSO/view?usp=sharing).
-2. Uncompress the zip file in current folder.
+2. Uncompressing the zip file in current folder.
 3. Running the final text classifier fine-tuning
