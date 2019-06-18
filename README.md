@@ -1,6 +1,6 @@
 # TCM BERT: Traditional Chinese Medicine Clinical Records Classification with BERT and Domain Specific Corpora
 
-The repository is modified from [pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT).a
+The repository is modified from [pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT).
 
 ## Installing requirement packages
 
