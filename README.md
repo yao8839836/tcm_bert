@@ -14,7 +14,7 @@ Training, validation and test records are in ./TCMdata/train.txt, ./TCMdata/val.
 
 Six example external unlabeled clinical records are in .TCMdata/domain_corpus.txt. Due to [CKCEST](http://zcy.ckcest.cn/tcm/) policy, we could not provide all 46,205 records. But we provide our fine-tuned models.
 
-The fine-tuned model from the second step is [here](https://drive.google.com/file/d/1VKKbfuzIdPwwgbYKSXBvhV7Ak1CSggSO/view?usp=sharing). The final fine-tuned text classifier is [here](https://drive.google.com/file/d/1ZTa1yDw7eJYmedorBBA4Rma3HpdT_lMH/view?usp=sharing).
+The fine-tuned model from the second step is [here](https://drive.google.com/file/d/1VKKbfuzIdPwwgbYKSXBvhV7Ak1CSggSO/view?usp=sharing). The final fine-tuned text classifier is [here](https://drive.google.com/file/d/19y-mvsZmWVJg8NO9ZxKrkKIHV-sC4NNW/view?usp=sharing).
 
 ## How to run
  
