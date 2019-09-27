@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ## Data
 
-Training, validation and test records are in ./TCMdata/train.txt, ./TCMdata/val.txt and ./TCMdata/val.txt
+Training, validation and test records are in ./TCMdata/train.txt, ./TCMdata/val.txt and ./TCMdata/test.txt
 
 Six example external unlabeled clinical records are in ./TCMdata/domain_corpus.txt. Due to [CKCEST](http://zcy.ckcest.cn/tcm/) policy, we could not provide all 46,205 records. But we provide our fine-tuned models.
 
