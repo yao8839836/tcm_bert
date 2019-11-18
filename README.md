@@ -2,7 +2,7 @@
 
 The implementation of TCM-BERT in our paper:
 
-Liang Yao, Zhe Jin, Chengsheng Mao, Yin Zhang and Yuan Luo. "Traditional Chinese Medicine Clinical Records Classification with BERT and Domain Specific Corpora." Accepted by Journal of the American Medical Informatics Association (JAMIA).
+Liang Yao, Zhe Jin, Chengsheng Mao, Yin Zhang and Yuan Luo. "Traditional Chinese Medicine Clinical Records Classification with BERT and Domain Specific Corpora." Journal of the American Medical Informatics Association (JAMIA). Volume 26, Issue 12, December 2019, Pages 1632–1636, https://doi.org/10.1093/jamia/ocz164
 
 The repository is modified from [pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT).
 
