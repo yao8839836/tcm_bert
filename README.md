@@ -14,6 +14,9 @@ pip install -r requirements.txt
 
 ## Data
 
+The Copyright of the dataset used in the paper belongs to [China Knowledge
+Centre for Engineering Sciences and Technology](http://zcy.ckcest.cn/tcm/). The dataset is for research use only.
+
 Training, validation and test records are in ./TCMdata/train.txt, ./TCMdata/val.txt and ./TCMdata/test.txt
 
 Six example external unlabeled clinical records are in ./TCMdata/domain_corpus.txt. Due to [CKCEST](http://zcy.ckcest.cn/tcm/) policy, we could not provide all 46,205 records. But we provide our fine-tuned models.
