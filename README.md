@@ -14,8 +14,8 @@ pip install -r requirements.txt
 
 ## Data
 
-The Copyright of the dataset used in the paper belongs to [China Knowledge
-Centre for Engineering Sciences and Technology](http://zcy.ckcest.cn/tcm/). The dataset is for research use only.
+The Copyright holder of the dataset is [China Knowledge
+Centre for Engineering Sciences and Technology](http://zcy.ckcest.cn/tcm/). The dataset is for research use only. Any commercial use, sale, or other monetization is prohibited.
 
 Training, validation and test records are in ./TCMdata/train.txt, ./TCMdata/val.txt and ./TCMdata/test.txt
 
