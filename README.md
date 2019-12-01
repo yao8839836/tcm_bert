@@ -1,4 +1,4 @@
-# TCM-BERT: Traditional Chinese Medicine Clinical Records Classification with BERT and Domain Specific Corpora
+# TCM-BERT
 
 The implementation of TCM-BERT in our paper:
 
